@@ -159,8 +159,6 @@ By working on this project, you'll:
 ---
 
 ## ✅ Requirements
-- GitHub account
-- Familiarity with Markdown
 - Knowledge of Django, DRF, PostgreSQL/MySQL
 - Understanding of Docker and CI/CD practices
 
